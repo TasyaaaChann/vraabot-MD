@@ -10,7 +10,7 @@ exports.menu = (salam, pushname) =>{
 > allmenu untuk menampilkan semua menu
 
 Contak owner number
-Wa.me/+6282115946480
+wa.me/6283115192154
 `
 } 
 
@@ -339,7 +339,7 @@ exports.sewabot  = (ownernomer) => {
 └───────
 
 Contact person Owner :
-wa.me/6283808840711
+wa.me/6283115192154
 `
 }
 
