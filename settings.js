@@ -16,23 +16,23 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6282115946480','6282115946480','6282115946480']
-global.ownernomer = '6282115946480 '
-global.premium = ['6282115946480']
+global.owner = ['6283115192154','62831151921540','62831151921541']
+global.ownernomer = '6283115192154 '
+global.premium = ['6283115192154']
 global.ownername = 'KIKI VZ'
-global.botname = 'VraaBotz'
-global.footer = 'cerated by kiki vz'
-global.email = 'vraakeren@gmail.com'
-global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+global.botname = 'Ｔａｓｙａ B O T'
+global.footer = 'by Ｔａｓｙａ'
+global.email = 'tasyaa2004@gmail.com'
+global.ig = 'https://youtube.com/channel/TasyaaaChann'
 global.region = 'jepang'// bebas
 
 // Keperluan buttons
-global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+global.myweb = 'github.com/TasyaaaChann'
 global.sc = 'https://github.com/kikivz/vraabot-MD'
-global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
+global.grupowner ='https://chat.whatsapp.com/Ehl7ozddkUoK4Y7OdwdPW8'// GRUP LU 
 // Wm
-global.packname = 'kiki'//BEBAS
-global.author = 'vz'
+global.packname = 'Ｔａｓｙａ'//BEBAS
+global.author = 'Chann'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')// jangan di ubah nanti eror
