@@ -19,7 +19,7 @@ global.APIKeys = {
 global.owner = ['6283115192154','62831151921540','62831151921541']
 global.ownernomer = '6283115192154 '
 global.premium = ['6283115192154']
-global.ownername = 'KIKI VZ'
+global.ownername = 'Ｔａｓｙａ'
 global.botname = 'Ｔａｓｙａ B O T'
 global.footer = 'by Ｔａｓｙａ'
 global.email = 'tasyaa2004@gmail.com'
@@ -45,7 +45,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 */
 
 // Lainnya
-global.sessionName = 'session'
+global.sessionName = 'tsya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 
